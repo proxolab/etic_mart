@@ -1,0 +1,1 @@
+/var/www/etic_mart/public

@@ -1,1 +1,1 @@
-asdasdasd
+root@dev:/var/www/etic_mart# nano asd.txt
